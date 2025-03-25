@@ -2,7 +2,7 @@ Práctica de campo 1. Localicemos hormigueros<small><br>Biogeografía
 (GEO-131)<br>Universidad Autónoma de Santo Domingo (UASD)<br>Semestre
 2025-01</small>
 ================
-El Tali, Arlen Marmolejos<br>
+El Tali, Arlen Marmolejo<br>
 2025-03-25
 
 Versión HTML (quizá más legible),
