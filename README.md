@@ -41,7 +41,8 @@ relacionadas con:
 Existen muchos protocolos de muestreo de hormigas. Investiga sobre el
 protocolo ALL. Sin embargo, en esta ocasión, nos centraremos en nidos,
 así que improvisaremos un poco, dado que son pocos los protocolos
-existentes para esta tarea.
+existentes para esta tarea. Puedes también consultar la tesis de Dahiana
+Guzmán, quien trabajó con hormigueros en el parque Iberoamérica.
 
 1.  **Marcado de nidos**
 
