@@ -47,7 +47,9 @@ Guzmán, quien trabajó con hormigueros en el parque Iberoamérica.
 1.  **Marcado de nidos**
 
     - Cada persona participa en el barrido del área, cuidando de no
-      dañar nidos existentes.
+      dañar nidos existentes. Se espera que cada estudiante marque al
+      menos 3 hormigueros, pero la idea es barrer toda el área hasta
+      terminar.
     - Se marcan los nidos con banderas rojas (flagging).
     - Si hay dos entradas separadas por menos de **0.5 a 1 metro**, se
       considerarán que ambas pertenecen al mismo nido, por lo que una de
@@ -65,19 +67,30 @@ Guzmán, quien trabajó con hormigueros en el parque Iberoamérica.
     - Las banderas permanecen en su lugar hasta que todas las
       coordenadas estén registradas, para evitar confusión y/o doble
       contabilidad.
-    - Luego, se colectan ejemplares de cada nido para identificar su
-      especie (con 2 individuos es suficiente). Tras colectar el
-      ejemplar, existen dos opciones:
-      - Colectar en vial separado (no mezclar ejemplares de nidos
+    - Luego, usando un pincel humedecido en alcohol, se colectan
+      ejemplares de cada nido para identificar su especie (con 2
+      individuos es suficiente). Tras colectar el ejemplar, existen dos
+      opciones:
+      - “Sacrificar” en vial con alcohol (no mezclar ejemplares de nidos
         distintos), anotando el número de la bandera en el papel
         vegetal.
-      - Llevar a la mesa para identificación.
-    - Se realiza la identificación en una mesa de trabajo portátil, con
-      lupa y luz.  
+      - Llevar a la mesa de trabajo para identificación para colocar en
+        placa de Petri e identificar (podría haber saturación en la
+        mesa).
+    - Se realiza la identificación en una mesa de trabajo, con lupa y
+      luz.  
     - Los resultados se anotan en papel o en el [formulario de
       Google](https://forms.gle/6qZsEv4ipuLbgCjY8), lo cual incluye:
       - Número de la bandera (obligatorio).
       - Nombre de la especie (obligatorio).
+      - Responsable de la colecta (obligatorio).
+      - Responsable de la identificación (obligatorio).
+      - En el caso de rellenar en papel, anota fecha y hora (en el caso
+        del formulariod e Google, se toma la marca temporal).
+      - Temperatura exterior del nido en la apertura (grados Celsius)
+        (opcional). Lo importante, en este caso, es usar el mismo método
+        para todos los nidos, ya sea pistola de infrarrojos (sin
+        contacto), termocupla o sensor de temperatura de suelo.
       - Observaciones (opcional).
 
 ## Materiales necesarios
